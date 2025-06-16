@@ -1,0 +1,16 @@
+Ana 11.3 9.3
+João 16.7 5.1
+Maria 7.8 18.9
+Pedro 10.6 15.9
+Luis 16.9 5.9
+Sofia 1.9 12.7
+Rita 17.6 4.8
+Carlos 0.7 12.1
+Marta 8.7 8.6
+José 19.2 1.4
+Tiago 17.5 3.4
+Beatriz 11.6 11.4
+Clara 7.2 8.5
+Paulo 1.9 1.4
+Helena 19.3 14.9
+Artur 0.0 12.1
